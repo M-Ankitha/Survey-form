@@ -54,10 +54,15 @@ form {
     gap: 20px;
     flex-direction:column;
 }
-
+.first{
+     display: flex;
+     flex-direction: column;
+     
+}
 .form-group {
     display: flex;
     flex-direction:column;
+    padding: 10px;
 }
 
 label {
